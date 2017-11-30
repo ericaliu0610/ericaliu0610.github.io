@@ -1,0 +1,5 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+13:12:11	32163/32163	---MCZ	200	added ('OK')	text/html	date:Thu,%2030%20Nov%202017%2018:12:10%20GMT	https://sites.google.com/view/centralmasswids	D:/Research/My%20Web%20Sites/try/sites.google.com/view/centralmasswids.html	(from )
+13:12:12	67/67	---MCZ	200	added ('OK')	text/plain	date:Thu,%2030%20Nov%202017%2018:12:10%20GMT	https://sites.google.com/robots.txt		(from )
+13:12:12	12497/12497	---MC-	200	added ('OK')	application/javascript	date:Thu,%2030%20Nov%202017%2018:12:11%20GMT	https://apis.google.com/js/client.js?onload=gapiLoaded	D:/Research/My%20Web%20Sites/try/apis.google.com/js/clientc932.js	(from https://sites.google.com/view/centralmasswids)
+13:12:13	2766301/2766301	---M--	200	added ('OK')	image/png	date:Wed,%2007%20Sep%202016%2019:45:00%20GMT	https://ssl.gstatic.com/atari/images/impression-header.png	D:/Research/My%20Web%20Sites/try/ssl.gstatic.com/atari/images/impression-header.png	(from https://sites.google.com/view/centralmasswids)
